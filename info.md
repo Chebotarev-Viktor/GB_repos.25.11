@@ -1,4 +1,5 @@
 hello Git and world
+привет Git
 
 вторая попытка пуша
 
